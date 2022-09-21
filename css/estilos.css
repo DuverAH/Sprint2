@@ -1,0 +1,27 @@
+h1{
+    font-family: serif;
+    text-align: center;
+    background-color: lightgray;
+    color: #377ba8;
+}
+form{
+    width: 350px;
+    padding: 16px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #ccc;
+}
+input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 3px;
+    border-color: rgba(49, 52, 70, 0.623);
+    text-align: left;
+    font-weight: bold;
+}
+button{
+    text-align: center;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: #ebd1ad;
+}
